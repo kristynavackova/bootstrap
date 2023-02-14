@@ -1,2 +1,2 @@
-# bootstrap
+# Bootstrap
 Upravte vánoční web pomocí bootstrapu.
